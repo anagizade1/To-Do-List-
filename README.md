@@ -15,10 +15,17 @@ Python
 
 ▶️ How to Run
 Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/your-username/anagizade1.git
 
 Navigate to the folder:
-cd your-repo-name
+cd To-Do=-List
 
 Run the program:
 python _to_do_list.py
+
+📚 What I Learned
+Working with lists in Python
+Using loops (while, for)
+Handling user input
+Basic error handling with try/except
+Building a simple CLI application
